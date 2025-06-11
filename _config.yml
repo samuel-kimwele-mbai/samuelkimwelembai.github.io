@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Samuel Mbai"
-  avatar : "/assets/images/photo.jpg"
+  avatar : "/assets/images/photo.jpeg"
   bio    : "Security Engineer passionate about building secure systems, automating defenses, and solving real-world cybersecurity challenges"
   links:
     - label: "Website"
