@@ -57,5 +57,6 @@ Communication, Team collaboration, Problem solving, Documentation
 
 ---
 
-> 📥 [Download Full Resume (PDF)](/SAMUEL_KIMWELE_MBAI_CV.pdf)  
+> 📥 [Download Full Resume (PDF)](https://yourusername.github.io/your-repo-name/SAMUEL_KIMWELE_MBAI_CV.pdf)
+
 > *Updated: June 2025*
