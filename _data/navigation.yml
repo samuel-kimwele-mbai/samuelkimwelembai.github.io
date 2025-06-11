@@ -1,4 +1,16 @@
 main:
+  - title: "Home"
+    url: /home/
 
   - title: "About"
     url: /about/
+
+  - title: "Resume"
+    url: /resume/
+
+  - title: "Lab Challenges
+    url: /labchallenges/
+
+  - title: "Contacts"
+    url: /contacts/
+  
