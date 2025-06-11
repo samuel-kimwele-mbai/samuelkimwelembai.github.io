@@ -8,6 +8,12 @@ author_profile: true
 Passionate about securing systems, and supporting users. I thrive at the intersection of cybersecurity, IT infrastructure, and IT support.
 
 ---
+## 🎓 Education
+
+**Bachelor of Science in Information Technology**  
+University of Eldoret
+
+
 
 ## 🔧 Skills & Technologies
 
