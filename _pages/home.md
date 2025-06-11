@@ -5,7 +5,7 @@ permalink: /home/
 
 # 👋 Welcome to My Portfolio
 
-![Profile Photo](/assets/images/photo.jpeg")
+![Profile Photo](assets/images/photo.jpeg)
 
 ## 🧑‍💻 Samuel Mbai
 
