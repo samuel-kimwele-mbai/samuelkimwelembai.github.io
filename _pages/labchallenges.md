@@ -1,1 +1,5 @@
+---
+title: Contact
+permalink: /labchallenges/
+---
 
