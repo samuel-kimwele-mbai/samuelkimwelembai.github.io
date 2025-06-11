@@ -1,3 +1,8 @@
+---
+title: Contact
+permalink: /home/
+---
+
 # 👋 Welcome to My Portfolio
 
 ![Profile Photo](/assets/images/photo.jpg)
