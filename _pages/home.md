@@ -6,7 +6,7 @@ permalink: /home/
 # 👋 Welcome to My Portfolio
 
 ![Profile Photo](assets/images/photo.jpeg)
-![Profile Photo](https://github.com/samuel-kimwele-mbai/samuelkimwelembai.github.io/blob/master/assets/images/photo.jpeg)
+
 
 ## 🧑‍💻 Samuel Mbai
 
