@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Lab Challenges
 permalink: /labchallenges/
 ---
 
